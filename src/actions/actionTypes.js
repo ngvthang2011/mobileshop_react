@@ -1,0 +1,6 @@
+export const CHANGE_QUANTITY = 'CHANGE_QUANTITY'
+export const ADD_CART = 'ADD_CART'
+export const REMOVE_PRODUCT = 'REMOVE_PRODUCT'
+//B1
+export const ADD_WISH_LIST = 'ADD_WISH_LIST'
+export const ADD_PREVIEW_LIST = 'ADD_PREVIEW_LIST'
